@@ -14,6 +14,8 @@ In this project, Forge acts a middle man between the user and ChatGPT. Forge all
 
 ## Try it for yourself
 
+Live Site: https://example-personalsitegenerator.onrender.com/
+
 git clone https://github.com/forge-ml/example.personalsitegenerator.git
 
 add your forge key, aws key, aws bucket, aws region and aws secret key to the .env file
