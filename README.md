@@ -2,13 +2,6 @@
 
 This application automatically generates personal websites from profile screenshots using AI image analysis.
 
-## Features
-
-- Upload profile screenshots (e.g., LinkedIn profiles)
-- AI-powered image analysis using Forge
-- Automatic data extraction from images
-- Personal website generation based on extracted data
-
 ## How It Works
 
 1. User uploads a profile screenshot
@@ -21,7 +14,7 @@ In this project, Forge acts a middle man between the user and ChatGPT. Forge all
 
 ## Try it for yourself
 
-1. git clone https://github.com/forge-ml/example.personalsitegenerator.git
+git clone https://github.com/forge-ml/example.personalsitegenerator.git
 
 add your forge key, aws key, aws bucket, aws region and aws secret key to the .env file
 
